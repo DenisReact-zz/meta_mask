@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import s from '../styles/Home.module.css'
-import Login from '../components/Login.tsx'
+import Login from '../components/Login'
 
 
 export default function Home() {
